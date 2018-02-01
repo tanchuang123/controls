@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gif/lb_check_blue.png</file>
+        <file>gif/lb_cicle_blue.png</file>
+        <file>gif/lb_close_white.png</file>
+        <file>gif/lb_hourglass_white.png</file>
+        <file>gif/lb_radio_blue.png</file>
+        <file>gif/lb_rice_font_black_big.png</file>
+        <file>gif/lb_rice_font_black_big_copy.png</file>
+        <file>gif/lb_rice_font_white.png</file>
+    </qresource>
+</RCC>
